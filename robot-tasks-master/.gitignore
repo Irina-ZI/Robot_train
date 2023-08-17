@@ -1,3 +1,4 @@
 .env
 # Compiled Python Bytecode
 *.py[cod]
+pyrob/
